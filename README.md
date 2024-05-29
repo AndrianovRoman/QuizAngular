@@ -1,5 +1,13 @@
 # QuizAngular
 
+## Сайт в виде портфолио
+
+- Работает с backend
+- Есть регистрация и авторизация(с помощью access и refresh токенов)
+- Запоминает результат пройденного теста
+- В будущем планируется сделать страницу с правильными ответами!
+- И доработка некоторых деталей!
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.13.
 
 ## Development server
